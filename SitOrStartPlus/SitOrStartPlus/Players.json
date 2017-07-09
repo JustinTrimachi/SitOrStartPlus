@@ -1,0 +1,62 @@
+{
+  "QBs": [
+    {
+      "name" : "Aaron Rodgers",
+      "position" : "QB",
+      "team" : "Green Bay Packers",
+      "image" : "http://img4.imagetitan.com/img4/small/16/16_aaronrodgers.png",
+      "height" : " 6' 2\" ",
+      "weight" : " 225 lbs",
+      "salary" : "22,000,000"
+    },
+    {
+      "name" : "Russell Wilson",
+      "position" : "QB",
+      "team" : "Seattle Seahawks",
+      "image" : "http://img4.imagetitan.com/img.php?image=16_russelwilson.png",
+      "height" : " 5' 11\" ",
+      "weight" : " 215 lbs",
+      "salary" : "12,600,000"
+    },
+    {
+      "name" : "Tom Brady",
+      "position" : "QB",
+      "team" : "New England Patriots",
+      "image" : "http://img4.imagetitan.com/img.php?image=16_tombrady.png",
+      "height" : " 6' 4\" ",
+      "weight" : " 225 lbs",
+      "salary" : "15,000,000"
+    }
+    ],
+  "RBs": [
+    {
+      "name" : "Marshawn Lynch",
+      "position" : "RB",
+      "team" : "Oakland Raiders",
+      "image" : "http://img4.imagetitan.com/img.php?image=16_marshawnlynch.png",
+      "height" : " 5' 11\" ",
+      "weight" : " 215 lbs",
+      "salary" : "2,350,000"
+      
+    },
+    {
+      "name" : "David Johnson",
+      "position" : "RB",
+      "team" : "Arizona Cardinals",
+      "image" : "http://img4.imagetitan.com/img4/small/16/16_davidjohnson.png",
+      "height" : " 6' 1\" ",
+      "weight" : " 225 lbs",
+      "salary" : "615,000"
+      
+    },
+    {
+      "name" : "Ezekiel Elliot",
+      "position" : "RB",
+      "team" : "Dallas Cowboys",
+      "image" : "http://img4.imagetitan.com/img4/small/16/16_ezekielelliot.png",
+      "height" : " 6' 0\" ",
+      "weight" : " 225 lbs",
+      "salary" : "1,584,000"
+    }
+    ]
+}
