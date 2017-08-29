@@ -30,6 +30,7 @@ class PlayersViewController: UIViewController, UIPickerViewDelegate, UIPickerVie
         super.viewDidLoad()
         playerPicker.delegate = self
         playerPicker.dataSource = self
+        playerPicker.backgroundColor = UIColor.clear.withAlphaComponent(0.5)
         playerPicker.isHidden = true
         getJSONData()
         seedPlayerStatsArray(positionArray: QBArray)
